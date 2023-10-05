@@ -83,14 +83,14 @@ img {
 @media only screen and (max-device-width: 700px) {
   .card {
     width: 400px;
-    height: 300px;
+    height: 500px;
   }
 }
 
 @media only screen and (max-device-width: 500px) {
   .card {
     width: 300px;
-    height: 350px;
+    height: 300px;
   }
 
   img {
@@ -100,7 +100,7 @@ img {
 
 @media only screen and (max-device-width: 400px) {
   .card {
-    width: 200px;
+    width: 300px;
     height: 250px;
   }
 
